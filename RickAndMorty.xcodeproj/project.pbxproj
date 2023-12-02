@@ -21,7 +21,7 @@
 		C0FC73D72B181F7800A56D23 /* RMSettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0FC73D62B181F7800A56D23 /* RMSettingsViewController.swift */; };
 		C0FE74762B1AB01500888C19 /* RMService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0FE74752B1AB01500888C19 /* RMService.swift */; };
 		C0FE74782B1AB03300888C19 /* RMRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0FE74772B1AB03300888C19 /* RMRequest.swift */; };
-		C0FE747A2B1AB10200888C19 /* RMRndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0FE74792B1AB10200888C19 /* RMRndpoint.swift */; };
+		C0FE747A2B1AB10200888C19 /* RMEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0FE74792B1AB10200888C19 /* RMEndpoint.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,7 +41,7 @@
 		C0FC73D62B181F7800A56D23 /* RMSettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMSettingsViewController.swift; sourceTree = "<group>"; };
 		C0FE74752B1AB01500888C19 /* RMService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMService.swift; sourceTree = "<group>"; };
 		C0FE74772B1AB03300888C19 /* RMRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMRequest.swift; sourceTree = "<group>"; };
-		C0FE74792B1AB10200888C19 /* RMRndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMRndpoint.swift; sourceTree = "<group>"; };
+		C0FE74792B1AB10200888C19 /* RMEndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMEndpoint.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,7 +123,7 @@
 			children = (
 				C0FE74752B1AB01500888C19 /* RMService.swift */,
 				C0FE74772B1AB03300888C19 /* RMRequest.swift */,
-				C0FE74792B1AB10200888C19 /* RMRndpoint.swift */,
+				C0FE74792B1AB10200888C19 /* RMEndpoint.swift */,
 			);
 			path = APIClient;
 			sourceTree = "<group>";
@@ -239,7 +239,7 @@
 				C0FC73D32B181F4700A56D23 /* RMCharacterViewController.swift in Sources */,
 				C0FC73CA2B181B9B00A56D23 /* RMLocation.swift in Sources */,
 				C0FE74782B1AB03300888C19 /* RMRequest.swift in Sources */,
-				C0FE747A2B1AB10200888C19 /* RMRndpoint.swift in Sources */,
+				C0FE747A2B1AB10200888C19 /* RMEndpoint.swift in Sources */,
 				C0FC73CC2B181C7600A56D23 /* RMCharacter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

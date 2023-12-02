@@ -1,5 +1,5 @@
 //
-//  RMRndpoint.swift
+//  RMEndpoint.swift
 //  RickAndMorty
 //
 //  Created by Harrison Chin on 12/1/23.
